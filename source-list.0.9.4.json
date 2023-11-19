@@ -1,0 +1,14 @@
+{
+  "version": "0.9.4",
+  "list": [
+    {
+      "keyName": "alpha-example-module",
+      "name": "Alpha Example Module",
+      "description": "This is an example module for Alpha.",
+      "version": "0.0.1",
+      "author": "AlphaSoft, C.A",
+      "git": "https://github.com/AlePro12/alpha-example-module",
+      "gitUser": "AlePro12"
+    }
+  ]
+}
