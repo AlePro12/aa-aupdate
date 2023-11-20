@@ -9,6 +9,15 @@
       "author": "AlphaSoft, C.A",
       "git": "https://github.com/AlePro12/alpha-example-module",
       "gitUser": "AlePro12"
+    },
+    {
+      "keyName": "alpha-bcv-widget",
+      "name": "Alpha bcv widget",
+      "description": "Muestra el dolar bcv en la pestaña de abajo.",
+      "version": "1.0.0",
+      "author": "AlphaSoft, C.A",
+      "git": "https://github.com/AlePro12/alpha-bcv-widget",
+      "gitUser": "AlePro12"
     }
   ]
 }
